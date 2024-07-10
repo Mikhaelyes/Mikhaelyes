@@ -1,7 +1,7 @@
 ### Hi there, I'm Mikhail 👋
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300"/>
 </div>
 
 <!--
