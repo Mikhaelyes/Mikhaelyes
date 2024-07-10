@@ -2,6 +2,12 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300"/>
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikhaelyes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
+
 <!--
 **Mikhaelyes/Mikhaelyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
