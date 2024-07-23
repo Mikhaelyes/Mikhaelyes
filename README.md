@@ -1,11 +1,11 @@
-<div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300"/> 
+
+  
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaelyes&theme=blueberry" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mikhaelyes&theme=blueberry" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaelyes&theme=blueberry" alt=""/>
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikhaelyes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <!--
 **Mikhaelyes/Mikhaelyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
