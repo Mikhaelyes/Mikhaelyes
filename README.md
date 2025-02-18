@@ -5,6 +5,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaelyes&theme=blueberry" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mikhaelyes&theme=blueberry" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikhaelyes&theme=blueberry" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaelyes&layout=compact" alt=""/>
 </div>
 
 <!--
