@@ -1,6 +1,5 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsZHMweXY3bDR6djFzM2ZlMjNhdGt5Y3VudHhmejN0dG1kbXFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300"/> 
 
-<img src="https://i.gifer.com/embedded/download/O9We.gif" width="300"/>
 
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikhaelyes&theme=blueberry" alt=""/>
